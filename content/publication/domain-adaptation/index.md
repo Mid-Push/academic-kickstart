@@ -1,6 +1,6 @@
 +++
 title = "Learning Semantic Representations for Unsupervised Domain Adaptation"
-# date = 2018-07-10T00:00:00
+ date = 2018-07-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Shaoan Xie**","Zibin Zheng","Liang Chen","Chuan Chen"]
@@ -17,8 +17,8 @@ authors = ["**Shaoan Xie**","Zibin Zheng","Liang Chen","Chuan Chen"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-# publication = "In *International Conference on Machine Learning*"
-# publication_short = "In *ICML*"
+ publication = "In *International Conference on Machine Learning*"
+ publication_short = "In *International Conference on Machine Learning*"
 
 # Abstract.
 # abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "ICML 2018", url = "https://icml.cc/Conferences/2018"}]
+# links = [{name = "ICML 2018", url = "https://icml.cc/Conferences/2018"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

@@ -14,7 +14,7 @@ authors = ["Shaoan Xie","Zibin Zheng","Liang Chen","Chuan Chen"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *International Conference on Machine Learning*"

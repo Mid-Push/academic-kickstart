@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "ICML 2018", url = "https://icml.cc/Conferences/2018"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

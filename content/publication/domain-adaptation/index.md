@@ -3,7 +3,7 @@ title = "Learning Semantic Representations for Unsupervised Domain Adaptation"
 date = 2018-07-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shaoan Xie","Zibin Zheng","Liang Chen","Chuan Chen"]
+authors = ["**Shaoan Xie**","Zibin Zheng","Liang Chen","Chuan Chen"]
 
 # Publication type.
 # Legend:
